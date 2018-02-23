@@ -1,5 +1,6 @@
 *.jar
 *.log
 target/
-*.setting/
+*.settings/
 .classpath
+.settings/
