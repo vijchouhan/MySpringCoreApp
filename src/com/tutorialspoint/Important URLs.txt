@@ -1,0 +1,196 @@
+Fixed :- 12:30 to 8:30.... sleeping time... 
+---------------------------------------------
+java feature 8:- 
+---------------------------------------------
+http://www.journaldev.com/2389/java-8-features-with-examples#java-stream-api
+
+selenium:- 
+---------------------------------------------
+http://toolsqa.com/selenium-webdriver/webelement-commands/
+
+RESTFul WebService:-
+---------------------------------------------
+https://docs.oracle.com/cd/E19776-01/820-4867/6nga7f5n6/index.html
+http://www.techferry.com/articles/RESTful-web-services-JAX-RS-annotations.html
+
+microservices:-  
+---------------------------------------------
+https://stackify.com/what-are-microservices/
+
+clould :- 
+
+https://en.wikipedia.org/wiki/Cloud_computing
+---------------------------------------------
+
+linked list:-
+---------------------------------------------
+https://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html
+
+
+Bean Life Cycle:- 
+---------------------------------------------
+http://www.wideskills.com/spring/spring-bean-lifecycle
+
+Hibernate Spring Integrations:-
+---------------------------------------------
+https://www.javatpoint.com/hibernate-and-spring-integration
+
+Design Principle:- 
+---------------------------------------------
+
+https://en.wikipedia.org/wiki/Single_responsibility_principle
+https://en.wikipedia.org/wiki/Open/closed_principle
+https://en.wikipedia.org/wiki/Liskov_substitution_principle
+https://en.wikipedia.org/wiki/Interface_segregation_principle
+https://en.wikipedia.org/wiki/Dependency_inversion_principle
+
+https://stackoverflow.com/questions/62539/what-is-the-dependency-inversion-principle-and-why-is-it-important
+https://www.javabrahman.com/programming-principles/dependency-inversion-principle-example-java/ ---->> this link is good
+
+---------------------------------------------
+
+Spring:-
+
+singleton injecting prototype bean problem,
+http://www.logicbig.com/tutorials/spring-framework/spring-core/injecting-singleton-with-prototype-bean/
+http://www.logicbig.com/tutorials/spring-framework/spring-core/using-application-context-aware/
+http://www.logicbig.com/tutorials/spring-framework/spring-core/using-lookup-method/
+
+---------------------------------------------
+
+Spring used list of desing patterns:- 
+
+https://www.quora.com/What-are-the-design-patterns-for-the-spring-framework
+---------------------------------------------
+
+double lock in singletor:- 
+
+http://javarevisited.blogspot.in/2014/05/double-checked-locking-on-singleton-in-java.html
+
+---------------------------------------------
+
+Memory Management:- 
+
+https://www.journaldev.com/2856/java-jvm-memory-model-memory-management-in-java
+
+---------------------------------------------
+
+Micro services:- 
+
+https://stackify.com/what-are-microservices/
+
+---------------------------------------------
+Memory Management:- 
+
+https://www.journaldev.com/4098/java-heap-space-vs-stack-memory
+---------------------------------------------
+
+List of Controller class in Spring
+
+https://www.roseindia.net/spring/spring-mvc-controller.shtml
+
+---------------------------------------------
+
+https://docs.spring.io/spring/docs/4.1.5.RELEASE/spring-framework-reference/html/new-in-4.0.html
+---------------------------------------------
+
+Singleton having Prototype problem
+---------------------------------------------
+http://www.logicbig.com/tutorials/spring-framework/spring-core/injecting-singleton-with-prototype-bean/
+http://www.logicbig.com/tutorials/spring-framework/spring-core/using-application-context-aware/
+http://www.logicbig.com/tutorials/spring-framework/spring-core/using-lookup-method/
+http://www.logicbig.com/tutorials/spring-framework/spring-core/using-jsr-330-provider/
+
+Difference between 3 and 4 Spring....
+---------------------------------------------
+
+call delete method from brower 
+
+https://stackoverflow.com/questions/38370011/thymeleaf-button-click-to-call-http-delete-method
+https://stackoverflow.com/questions/33230711/java-spring-mvc-rest-delete-method-after-clicked-a-link
+https://stackoverflow.com/questions/1856996/doing-a-http-put-from-a-browser
+https://stackoverflow.com/questions/165779/are-the-put-delete-head-etc-methods-available-in-most-web-browsers
+
+---------------------------------------------
+
+java concurrency...
+
+https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html
+
+---------------------------------------------
+
+immutable class in java...
+
+https://www.journaldev.com/129/how-to-create-immutable-class-in-java
+
+---------------------------------------------
+
+Java Task Scheduler.......
+
+http://www.mkyong.com/java/how-to-run-a-task-periodically-in-java/
+
+---------------------------------------------
+
+JVM Specification:- 
+
+https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-4.html#jvms-4.11
+---------------------------------------------
+
+Java Collections
+
+https://docs.oracle.com/javase/tutorial/collections/index.html
+---------------------------------------------
+
+Java Reflection
+
+https://docs.oracle.com/javase/tutorial/reflect/index.html
+---------------------------------------------
+Note: Class has no public constructor. Instead Class objects are constructed automatically by the Java Virtual Machine as classes are loaded 
+	and by calls to the defineClass method in the class loader. 
+
+---------------------------------------------
+Hash Map Internal working
+
+https://www.cdn.geeksforgeeks.org/java-util-hashmap-in-java/
+https://www.geeksforgeeks.org/internal-working-of-hashmap-java/
+---------------------------------------------\
+
+difference between ConcurrentHashMap and HashMap 
+
+http://www.java67.com/2012/08/difference-between-hashmap-and-concurrentHashMap-java-collection.html
+
+----------------------------------------
+Spring Integration Overview
+
+https://docs.spring.io/spring-integration/reference/html/overview.html
+-------------------------------------------------------------
+
+Database normalization:- 
+
+https://www.studytonight.com/dbms/database-normalization.php
+https://en.wikipedia.org/wiki/Database_normalization
+
+https://www.slideshare.net/a
+-------------------------------------------------------------
+
+When do we use each SOAP/REST ?
+
+https://www.infoq.com/articles/rest-soap-when-to-use-each
+
+-------------------------------------------------------------
+Create manven spring mvc project:-
+https://www.programcreek.com/2014/02/spring-mvc-helloworld-using-maven-in-eclipse/
+-------------------------------------------------------------
+GIT hub  tutorials :-
+
+https://www.git-tower.com/blog/git-cheat-sheet/
+https://www.tutorialspoint.com/git/index.htm
+https://www.cloudways.com/blog/git-cheat-sheet/
+
+---------------------------------------------------------------
+SVN tutorials:-
+https://www.tutorialspoint.com/svn/index.htm
+---------------------------------------------------------------
+Restful webservice:- 
+
+https://en.wikipedia.org/wiki/Java_API_for_RESTful_Web_Services
