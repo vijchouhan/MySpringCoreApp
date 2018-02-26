@@ -7,6 +7,11 @@ https://github.com/vijchouhan/MyApplication.git
 
 https://github.com/vijchouhan/LocalRepo.git
 
+
+
+
+*******************************************************************************************************************
+*******************************************************************************************************************
 *******************************************************************************************************************
 Below are the steps to push project into Git 
 ================
@@ -81,7 +86,13 @@ To https://github.com/vijchouhan/MyApplication.git
 VI297398@D-113094685 MINGW64 /d/SelfLearning/MyRepo/MyApplication (master)
 $
 
+
+
+
 *******************************************************************************************************************
+*******************************************************************************************************************
+*******************************************************************************************************************
+
 How to add new file:- 
 
 create file in your local working copy in any location and then add this file to remote repository ad folling command
@@ -145,3 +156,19 @@ Your branch is up-to-date with 'origin/master'.
 nothing to commit, working tree clean
 
 VI297398@D-113094685 MINGW64 /d/SelfLearning/MyRepo/MyApplication/MySpringCoreApp/src/com/tutorialspoint (master)
+
+
+
+*******************************************************************************************************************
+*******************************************************************************************************************
+*******************************************************************************************************************
+How to import project in eclipse that is newly created repository, make repository as a project and import in eclipse
+
+1. create repository in login with Git hub,
+2. go to workspace and open "git bash here" console and clone the created repository
+3. go to inside the created directory and paste here the entire content of the created project with same name in eclpse. later on delete the eclipse project 
+4. now import this project in eclipse
+5. through eclipse execute command like :-
+(a) team >> add to index (similar to "git add . " in git console
+(b) team >> 
+5. 
